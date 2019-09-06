@@ -1,1 +1,1 @@
-# test
+git remote add origin git@github.com:a1241891561/test.git
